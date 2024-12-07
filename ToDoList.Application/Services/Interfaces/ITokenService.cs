@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ToDoList.Application.Helpers;
+using ToDoList.Application.Services.Models;
+using ToDoList.Domain;
+using ToDoList.Domain.Auth;
 
 namespace ToDoList.Application.Services.Interfaces
 {
